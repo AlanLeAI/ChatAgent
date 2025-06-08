@@ -8,7 +8,7 @@ A full-stack AI chatbot built with Next.js that can interact with users in real-
       <img width="1400" alt="AI Agent home page" src="public/home.png">
     </td>
     <td>
-      <img width="1400" height="200" alt="AI Agent Demo" src="public/chat.png">
+      <img width="1400" height="205" alt="AI Agent Demo" src="public/chat.png">
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@ A full-stack AI chatbot built with Next.js that can interact with users in real-
       <img width="1400" alt="Retrieve a book" src="public/book1.png">
     </td>
     <td>
-      <img width="1400" height="210" alt="Retrieve a book" src="public/book2.png">
+      <img width="1400" height="215" alt="Retrieve a book" src="public/book2.png">
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@ A full-stack AI chatbot built with Next.js that can interact with users in real-
       <img width="1400" alt="Search wikipedia page" src="public/wiki1.png">
     </td>
     <td>
-      <img width="1400" height="220" alt="Search wikipedia page" src="public/wiki2.png">
+      <img width="1400" height="225" alt="Search wikipedia page" src="public/wiki2.png">
     </td>
   </tr>
 </table>
